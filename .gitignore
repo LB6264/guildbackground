@@ -1,0 +1,11 @@
+bin/
+gen/
+local.properties
+project.properties
+.project
+.settings/
+AndroidManifest.xml
+.classpath
+.externalToolBuilders/
+assets/
+libs/
